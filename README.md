@@ -10,7 +10,7 @@ A production-quality API for a video streaming service that handles user registr
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/maqaro/fastApi_reply
 cd fastApi_reply
 ```
 
