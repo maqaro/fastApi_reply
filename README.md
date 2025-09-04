@@ -167,19 +167,6 @@ The application uses in-memory Python data structures for data storage:
 - **Language**: Python 3.8+
 - **Testing**: pytest with httpx
 - **Data Models**: Pydantic BaseModel
-- **Validation**: Custom validation functions with regex patterns
-- **Password Security**: SHA-256 hashing
-
-## Production Quality Features
-
-- Comprehensive input validation
-- Proper HTTP status codes
-- Detailed error messages
-- Full unit test coverage
-- Clean code structure and separation of concerns
-- API documentation with OpenAPI/Swagger
-- Type hints and Pydantic models
-- Proper exception handling
 
 ## API Examples
 
